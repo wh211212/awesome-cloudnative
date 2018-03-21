@@ -53,6 +53,18 @@
 ## Provisioning
 
 - Container Registries
+  > Container Registry is a private Docker repository that works with popular continuous delivery systems.
+	- [ECR](https://aws.amazon.com/cn/ecr/) - Amazon Elastic Container Registry (ECR) is a secure, fully-managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images.
+	- [Azure Registry](https://azure.microsoft.com/en-us/services/container-registry/) - Manage a Docker private registry as a first-class Azure resource.
+	- [Codefresh Registry](https://codefresh.io/registry-beta/) - Codefresh is a Docker-native CI/CD platform.Instantly build, test and deploy Docker images.
+	- [Docker Registry](https://docs.docker.com/registry/) - Docker Trusted Registry (DTR) is a commercial product that enables complete image management workflow, featuring LDAP integration, image signing, security scanning, and integration with Universal Control Plane. DTR is offered as an add-on to Docker Enterprise subscriptions of Standard or higher.
+	- [Google Container Registry](https://cloud.google.com/container-registry/) - High-speed, private Docker image storage on Google Cloud Platform
+	- [Harbor](http://vmware.github.io/harbor/) - An Enterprise-class Container Registry Server based on Docker Distribution.
+	- [JFrog Artifactory](https://jfrog.com/artifactory/) - Enterprise Universal Artifact Manager.
+	- [Portus](http://port.us.org/) - Portus is an open source authorization service and user interface for the next generation Docker Registry.
+	- [Project Atomic](https://www.projectatomic.io/) - Atomic Host provides immutable infrastructure for deploying to hundreds or thousands of servers in your private or public cloud. 
+	- [QUAY Enterprise](https://coreos.com/quay-enterprise/) - One container registry for your entire enterprise. 
+  
 - Host Management & Tooling
   > Host management tool
 	- [Ansible](https://www.ansible.com/)
@@ -76,9 +88,29 @@
 	- [ManageIQ](http://manageiq.org/) - Discover, Optimize, and Control your Hybrid IT
 	- [Terraform](https://www.terraform.io/) - Write, Plan, and Create Infrastructure as Code
   
-- Key Management
+- [Key Management](https://en.wikipedia.org/wiki/Key_management)
+  > Key management is the name of management of cryptographic keys in a cryptosystem.
+	- [Knox](https://knox.apache.org/) - The Apache Knox™ Gateway is an Application Gateway for interacting with the REST APIs and UIs of Apache Hadoop deployments.The Knox Gateway provides a single access point for all REST and HTTP interactions with Apache Hadoop clusters.
+	- [Oracle Policy Automation](https://www.oracle.com/applications/oracle-policy-automation/index.html) - Oracle Policy Automation is an end-to-end solution for capturing, managing, and deploying complex legislation and other document-based policies across channels and processes.
+	- [Keywhiz](https://square.github.io/keywhiz/) - A system for distributing and managing secrets
+	- [Lyft Confident](https://lyft.github.io/confidant/) - Confidant is a open source secret management service that provides user-friendly storage and access to secrets in a secure way, from the developers at Lyft.
+	- [SPIFFE](https://spiffe.io/) - SPIFFE (Secure Production Identity Framework For Everyone) provides a secure identity, in the form of a specially crafted x509 certificate, to every workload in a modern production environment. SPIFFE removes the need for application-level authentication and authorization and complex network-level ACL configuration.
+	- [Spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment.
+	- [Vault](https://www.vaultproject.io/) - A Tool for Managing Secrets. 
+	  
 - Secure Images
-	- [Promises](https://github.com/wbinnssmith/awesome-promises)
+  > Secure your images so that you maintain control of how they are displayed on the Internet.
+	- [Notary](https://github.com/theupdateframework/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
+	- [TUF](https://theupdateframework.github.io/) - A framework for securing software update systems
+	- [Aqua](https://www.aquasec.com/) - The Aqua Container Security Platform provides development-to-production lifecycle controls for securing containerized applications that run on-premises or in the cloud, on Windows or Linux, supporting multiple orchestration environments.
+	- [Clair](https://coreos.com/clair) - Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers.
+	- [OpenSCAP](https://www.open-scap.org/) - Discover a wide array of tools for managing system security and standards compliance.
+	- [Twistlock](https://www.twistlock.com/) - Container Security for Docker, Kubernetes and Beyond
+	- [Anchore](https://anchore.com/) - An open source complete solution for compliance, certification, security scanning, and auditing of public and private container images.
+	- [anchore.io](https://anchore.io/) - Discover, Analyze, and Certify Container Images.
+	- [Black Duck](https://www.blackducksoftware.com/)  - Complete Visibility. Automated Control.
+	- [NeuVector](https://neuvector.com/) - Continuous Network Security for Kubernetes Containers
+	- [Sonatype Nexus](https://www.sonatype.com/) - The world's best way to organize, store, and distribute software components.  	
 
 ## Runtime
 
