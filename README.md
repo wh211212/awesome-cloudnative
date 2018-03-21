@@ -54,7 +54,28 @@
 
 - Container Registries
 - Host Management & Tooling
+  > Host management tool
+	- [Ansible](https://www.ansible.com/)
+	- [Chef](https://www.chef.io)  
+	- [LniuxKit](https://github.com/linuxkit/linuxkit)
+	- [CFEngine](https://cfengine.com/)  	
+	- [Puppet](https://puppet.com/)  
+	- [Rundeck](https://www.rundeck.com/)
+	- [Saltstack](https://saltstack.com/)  
+
 - Infrastructure Automation
+  > Infrastructure automation makes servers and VM management more flexible, efficient, and scalable by converting management tasks and policy into code.
+	- [AWS CloudFormation](https://aws.amazon.com/cn/cloudformation/)
+	- [HOSH](https://bosh.io) - BOSH is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.
+	- [Helm](https://helm.sh/) - Helm is the best way to find, share, and use software built for Kubernetes.
+	- [Infrakit](https://github.com/docker/infrakit) - A toolkit for creating and managing declarative, self-healing infrastructure.
+	- [Juju](https://jujucharms.com/) - Juju is an open source application modelling tool. Deploy, configure, scale and operate your software on public and private clouds.
+	- [Cloud Coreo](https://www.cloudcoreo.com/) - A Platform for Modern Cloud Teams
+	- [Cloudify](https://cloudify.co/) - Radically Simplifying Multi-Cloud Orchestration
+	- [Kubicorn](http://kubicorn.io/) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
+	- [ManageIQ](http://manageiq.org/) - Discover, Optimize, and Control your Hybrid IT
+	- [Terraform](https://www.terraform.io/) - Write, Plan, and Create Infrastructure as Code
+  
 - Key Management
 - Secure Images
 	- [Promises](https://github.com/wbinnssmith/awesome-promises)
