@@ -1,22 +1,13 @@
-# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
+# <img src="https://raw.githubusercontent.com/wh211212/Cloud-Native/master/Images/cloudnativelog.png" width="400" alt="Cloud Native">
 
-[![Join the chat at https://gitter.im/Awesome-Windows/Awesome](https://badges.gitter.im/Awesome-Windows/Awesome.svg)](https://gitter.im/Awesome-Windows/Awesome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![ghit.me](https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome)](https://ghit.me/repo/Awesome-Windows/Awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
+[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
 
-> An awesome & curated list of best applications and tools for Windows.
-
-> *This Repository is highly inspired from cncf's [landscape](https://github.com/cncf/landscape "Cloud Native Landscape")*
 
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
 
+## Cloud Native Services
 
-![cloudnativelogo](https://github.com/wh211212/Cloud-Native/raw/master/Images/cloudnativelog.png)
-
-# Cloud-Native
-
-![Cloud-Native](https://github.com/wh211212/Cloud-Native/raw/master/Images/CloudNativeLandscape_latest.png)
-
-![TableOfContents](https://github.com/wh211212/Cloud-Native/raw/master/Images/TableOfContents.png)
+# <img src="https://raw.githubusercontent.com/wh211212/Cloud-Native/master/Images/CloudNativeLandscape_latest.png" width="400" alt="cloud native">
 
 # <img src="https://raw.githubusercontent.com/wh211212/Cloud-Native/master/Images/TableOfContents.png" width="400" alt="cloud native">
 
