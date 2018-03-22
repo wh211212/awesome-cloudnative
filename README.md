@@ -5,22 +5,20 @@
 
 > An awesome & curated list of best applications and tools for Windows.
 
-> *This Awesome Repository is highly inspired from ichait's [Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")*
-> *Special thanks to [egeerardyn](https://github.com/egeerardyn).*
+> *This Repository is highly inspired from cncf's [landscape](https://github.com/cncf/landscape "Cloud Native Landscape")*
 
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
 
 
-# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
-
+![cloudnativelogo](https://github.com/wh211212/Cloud-Native/raw/master/Images/cloudnativelog.png)
 
 # Cloud-Native
 
 ![Cloud-Native](https://github.com/wh211212/Cloud-Native/raw/master/Images/CloudNativeLandscape_latest.png)
 
-# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
+![TableOfContents](https://github.com/wh211212/Cloud-Native/raw/master/Images/TableOfContents.png)
 
-![Cloud-Native](https://github.com/wh211212/Cloud-Native/raw/master/Images/TableOfContents.png)
+# <img src="https://raw.githubusercontent.com/wh211212/Cloud-Native/master/Images/TableOfContents.png" width="400" alt="cloud native">
 
 ## Components 
 
