@@ -1,7 +1,8 @@
 # <img src="https://raw.githubusercontent.com/wh211212/Cloud-Native/master/Images/cloudnativelog.png" width="500" alt="Cloud Native">
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)[![ghit.me](https://ghit.me/badge.svg?repo=wh211212/Cloud-Native)](https://ghit.me/repo/wh211212/Cloud-Native)
+[Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+[![ghit.me](https://ghit.me/badge.svg?repo=wh211212/zabbix)](https://ghit.me/repo/wh211212/zabbix)
 
 > An awesome & curated list of best applications and tools for Cloud Native.
 
