@@ -1,12 +1,13 @@
 # <img src="https://raw.githubusercontent.com/wh211212/Cloud-Native/master/Images/cloudnativelog.png" width="400" alt="Cloud Native">
 
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![ghit.me](https://ghit.me/badge.svg?repo=wh211212/Cloud-Native)](https://ghit.me/repo/wh211212/Cloud-Native)
 
 
-> * An awesome & curated list of best applications and tools for Cloud Native.
+> An awesome & curated list of best applications and tools for Cloud Native.
 
-> * This Awesome Repository is highly inspired from cncf's [landscape](https://github.com/cncf/landscape).
+> This Awesome Repository is highly inspired from cncf's [landscape](https://github.com/cncf/landscape).
 
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
 
@@ -352,14 +353,16 @@
 - Logging
 - Tracing
 
-## Books
 
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
-- [Free Software Testing Books](https://github.com/ligurio/awesome-software-quality)
-- [Go Books](https://github.com/dariubs/GoBooks)
-- [R Books](https://github.com/RomanTsegelskyi/rbooks)
-- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
-- [Book Authoring](https://github.com/TalAter/awesome-book-authoring)
-- [Elixir Books](https://github.com/sger/ElixirBooks)
+## Contribute
+
+Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
+
+**[⬆ back to top](#applications)**
+
 
 ## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
