@@ -1,5 +1,4 @@
 # Cloud-Native
-
 > 
 ## Components 
 
@@ -200,15 +199,87 @@
   
 ## Orchestration & Management
 
-- Coordination & Service Discovery
 - Scheduling & Orchestration
+
+  Graduated CNCF Projects
+  - [Kubernetes]()  
+  
+  CNCF Member Products/Projects
+  - [ECS]()    
+  - [Docker Swarm]()   
+  - [Microsoft Azure Service Fabric]()     
+    
+  Non-CNCF Member Products/Projects
+  - [Mesos]()   
+  - [Nomad]()         
+    
+- Coordination & Service Discovery
+
+  Incubating CNCF Projects
+  - [CoreDNS](https://coredns.io/) - CoreDNS is a DNS server that chains plugins.
+    
+  CNCF Member Products/Projects
+  - [ContainerPilot](https://www.joyent.com/containerpilot) - A service for autodiscovery and configuration of applications running in containers
+  - [etcD](https://coreos.com/etcd/) - Distributed reliable key-value store for the most critical data of a distributed system
+  - [VMware Haret](https://github.com/vmware/haret) - A strongly consistent distributed coordination system, built using proven protocols & implemented in Rust.
+      
+  Non-CNCF Member Products/Projects
+  - [Apache Zookeeper](https://zookeeper.apache.org/) - Apache ZooKeeper is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
+  - [Consul](https://www.consul.io/) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  - [Eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
+  - [SkyDNS](https://github.com/skynetservices/skydns) - DNS service discovery for etcd
+  - [SmartStack](https://medium.com/airbnb-engineering/smartstack-service-discovery-in-the-cloud-4b8a080de619) - A transparent service discovery framework for connecting an SOA       
+
 - Service Management
 
 ## Application Definition & Development
 
+- Database & Data Warehouse
+  
+  Incubating CNCF Projects
+  - [Vitess](https://vitess.io/) - Vitess is a database clustering system for horizontal scaling of MySQL.
+  
+  CNCF Member Products/Projects
+  - [Cloudhbase](https://www.couchbase.com/) - Lightweight, embedded, syncable NoSQL database engine for iOS (and Mac!) apps.
+  - [IBM DB2](https://www.ibm.com/analytics/us/en/db2/) - IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
+  - [Iguazio](https://www.iguazio.com/) - iguazio's Continuous Analytics Data Platform has redesigned the data stack to accelerate performance in big data, IoT and cloud-native apps.
+  - [Infinispan](http://infinispan.org/) - Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.
+  - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server) - Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
+  - [MySQL](https://www.oracle.com/mysql/index.html) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
+  - [Oracle](https://developer.oracle.com/) - Oracle is a computer technology corporation developing and marketing computer hardware systems and enterprise software products.
+  - [RethinkDB](https://www.rethinkdb.com/) - The open-source database for the realtime web.
+  - [SQL Data Warehouse](https://azure.microsoft.com/en-us/services/sql-data-warehouse/) - Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
+  - [YugaByte DB](https://www.yugabyte.com/product/yugabytedb/) - YugaByteDB is a transactional, high-performance database for building distributed cloud services. It currently supports Redis API (as a true DB) and Cassandra API, with SQL coming very soon.
+  
+  Non-CNCF Member Products/Projects
+  - [ArangoDB](https://www.arangodb.com/) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
+  - [BigchainDB](https://www.bigchaindb.com/) - Meet BigchainDB. The blockchain database.
+  - [CarbonData](https://carbondata.apache.org/) - Mirror of Apache CarbonData
+  - [Cassandra](https://cassandra.apache.org/) - Mirror of Apache Cassandra
+  - [CockroachDB](https://www.cockroachlabs.com/) - CockroachDB - the open source, cloud-native SQL database.
+  - [Crate.io](https://crate.io/) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.
+  - [Druid](http://druid.io/) - Column oriented distributed data store ideal for powering interactive applications.
+  - [Hadoop](https://hadoop.apache.org/) - Mirror of Apache Hadoop
+  - [MariaDB](https://mariadb.org/) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
+  - [MemSQL](https://www.memsql.com/) - A real-time data warehouse you can run everywhere
+  - [MongoDB](https://www.mongodb.com/) - MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need
+  - [NomsDB](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
+  - [OrientDB](https://orientdb.com/why-orientdb/) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text, Geospatial and Key-Value models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries. OrientDB Community Edition is Open Source using a liberal Apache 2 license.
+  - [Pachyderm](https://www.pachyderm.io/) - Reproducible Data Science at Scale!
+  - [Pilosa](https://www.pilosa.com/) - Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
+  - [PostgreSQL](https://www.postgresql.org/) - PostgreSQL is a powerful, open source object-relational database system.
+  - [Presto](https://prestodb.io/) - Distributed SQL query engine for big data
+  - [Qubole](https://www.qubole.com/) - Qubole delivers a Self-Service Platform for Big Data Analytics built on Amazon, Microsoft, Google and Oracle Clouds.
+  - [Redis](https://redis.io/) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+  - [Scylla](https://www.scylladb.com/) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+  - [Snowflake](https://www.snowflake.net/) - Snowflake is the only data warehouse built for the cloud.
+  - [Software AG](https://www.softwareag.com/us/default.html) - Software AG provides business process management, data management, and consulting services worldwide.
+  - [Starburst](https://www.starburstdata.com/) - Starburst (www.starburstdata.com) is the enterprise Presto company offering an SQL-on-Anything analytics platform. 
+  - [TiDB](https://pingcap.com/index) - TiDB is a distributed HTAP database compatible with the MySQL protocol.
+  - [Vertica](https://www.vertica.com/) - Vertica Systems develops data management solutions for storing databases and allowing clients to conduct real-time and ad hoc queries.         
+                  
 - Application Definition
 - CI & CD
-- Database & Data Warehouse
 - Source Code Management
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - Streaming
