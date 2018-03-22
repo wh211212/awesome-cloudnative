@@ -1,14 +1,15 @@
 # <img src="https://raw.githubusercontent.com/wh211212/Cloud-Native/master/Images/cloudnativelog.png" width="500" alt="Cloud Native">
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
-[Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-[![ghit.me](https://ghit.me/badge.svg?repo=wh211212/zabbix)](https://ghit.me/repo/wh211212/zabbix)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > An awesome & curated list of best applications and tools for Cloud Native.
 
-> This Awesome Repository is highly inspired from cncf's [landscape](https://github.com/cncf/landscape).
+> This Awesome Repository is highly inspired from cncf's [landscape](https://github.com/cncf/landscape) & [Awesome](https://github.com/Awesome-Windows/Awesome).
 
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
+
+# <img src="https://raw.githubusercontent.com/wh211212/Cloud-Native/master/Images/cloudnativelog.png" width="500" alt="Cloud Native">
 
 ## Cloud Native Services
 
@@ -18,7 +19,7 @@
 
 ## Components 
 
-- [Cloud](#cloud)
+- [Cloud](#Cloud)
 - [Provisioning](#Provisioning)
 - [Runtime](#Runtime)
 - [Orchestration & Management](#Orchestration&Management)
@@ -30,35 +31,34 @@
 ## Cloud
 
 - [Public](https://www.redhat.com/en/topics/cloud-computing/what-is-public-cloud) - A public cloud is a pool of virtual resources—developed from hardware owned and managed by a third-party company—that is automatically provisioned and allocated among multiple clients through a self-service interface.
-	- [Alibaba Cloud](https://www.aliyun.com/)
-	- [AWS](https://aws.amazon.com)
-	- [Microsoft Cloud](https://azure.microsoft.com)
-	- [Baidu Cloud](https://cloud.baidu.com/)
-	- [DigitalOcean](https://www.digitalocean.com/)
-	- [Google Cloud](https://cloud.google.com)	
-	- [Huawei Cloud](https://www.huaweicloud.com/)
-	- [IBM Cloud](https://www.ibm.com/cloud/)
-	- [Oracle Cloud](https://cloud.oracle.com)
-	- [Joyent Cloud](https://www.joyent.com/)
-	- [Packet Cloud](https://www.packet.net/)
-	- [Tencent Cloud](https://cloud.tencent.com)
-	- [Citrix Cloud](https://citrix.cloud.com/)
+	- [Alibaba Cloud](https://www.alibabacloud.com/) - Alibaba Cloud develops highly scalable cloud computing and data management services.
+	- [Amazon Web Services](https://aws.amazon.com) - Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
+	- [Azure Cloud](https://azure.microsoft.com) - Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
+	- [Baidu Cloud](https://cloud.baidu.com/) - Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.
+	- [DigitalOcean](https://www.digitalocean.com/) - DigitalOcean is an IaaS company that delivers a seamless way for developers and businesses to deploy and scale any application in the cloud.
+	- [Fujitsu K5](https://www.fujitsu.com/global/solutions/cloud/k5/) - Fujitsu provides information technology and communications solutions.
+	- [Google Cloud](https://cloud.google.com) - Google is a multinational corporation that is specialized in internet-related services and products.
+	- [Huawei Cloud](https://www.huaweicloud.com/) - Huawei Technologies provides infrastructure application software and devices with wireline, wireless, and IP technologies.
+	- [IBM Cloud](https://www.ibm.com/cloud/) - IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
+	- [Oracle Cloud](https://cloud.oracle.com) - Oracle is a computer technology corporation developing and marketing computer hardware systems and enterprise software products.
+	- [Joyent Cloud](https://www.joyent.com/) - Your Cloud, Your Way
+	- [Packet Cloud](https://www.packet.net/) - Packet is a bare metal cloud built for developers. 8 minute deploys, no hypervisor, & full automation support from 15 global data centers.
+	- [Tencent Cloud](https://cloud.tencent.com) - Tencent is a Chinese internet service portal offering value-added internet, mobile, telecom, and online advertising services.
+	- [Citrix Cloud](https://citrix.cloud.com/) - Move Faster, Work Better, Lower IT Costs
 
 - [Private](https://azure.microsoft.com/en-us/overview/what-is-a-private-cloud/) - The private cloud is defined as computing services offered either over the Internet or a private internal network and only to select users instead of the general public. Also called an internal or corporate cloud, private cloud computing gives businesses many of the benefits of a public cloud - including self-service, scalability, and elasticity - with the additional control and customization available from dedicated resources over a computing infrastructure hosted on-premises.
-	- [Openstack](https://www.openstack.org/)
-	- [Scaleway](https://www.scaleway.com/)
-	- [Foreman](https://www.theforeman.org/)
-	- [Digital Bebar](http://rebar.digital/)
-	- [MAAS](https://maas.io/)
-	- [Digital Bebar](https://cloud.vmware.com/)	
+	- [Openstack](https://www.openstack.org/) - Repository containing OpenStack repositories
+	- [Scaleway](https://www.scaleway.com/) - Scaleway is the world's first Cloud Computing IaaS platform
+	- [Foreman](https://www.theforeman.org/) - an application that automates the lifecycle of servers
+	- [Digital Bebar](http://rebar.digital/) - Digital Rebar Provision is a simple but powerful Golang executable that provides a complete API-driven DHCP/PXE/TFTP provisioning system.
+	- [MAAS](https://maas.io/) - Official MAAS repository mirror. (Do not submit pull requests or bugs here; use Launchpad instead.)
+	- [VMware](VMware) - VMware is a software company providing cloud and virtualization services.
 	
 - [Hybrid](https://azure.microsoft.com/en-us/overview/what-is-hybrid-cloud-computing/) - A hybrid cloud is a computing environment that combines a public cloud and a private cloud by allowing data and applications to be shared between them.
-	- [Ensono](https://www.ensono.com)
-	- [Dellemc](https://www.dellemc.com/)
-	- [Bmc](https://www.bmc.com)
-	- [Hpe](https://www.hpe.com/us/en/solutions/cloud.html)
-	- [Interoute](https://www.interoute.com/)
-	- [Scalr](https://www.scalr.com/)
+	- [Ensono](https://www.ensono.com) - Complete hybrid IT services – from cloud to mainframe. Operate for today. Optimize for tomorrow.
+	- [Dellemc](https://www.dellemc.com/) - Dell EMC is a powerful part of Dell Technologies' commitment to your transformation
+	- [Hpe](https://www.hpe.com/us/en/solutions/cloud.html) - Hybrid Cloud Solutions
+	- [Scalr](https://www.scalr.com/) - The Hybrid Cloud Management Platform
 	- [IBM Z hybrid cloud](https://www.ibm.com/it-infrastructure/z/capabilities/hybrid-cloud)	
 	- [Rackspace Hybrid Cloud](https://www.rackspace.com/cloud/hybrid)	
 	- [Microsoft Hybrid Cloud](https://azure.microsoft.com/en-us/overview/hybrid-cloud/)	
@@ -82,13 +82,13 @@
   
 - Host Management & Tooling
   > Host management tool
-	- [Ansible](https://www.ansible.com/)
-	- [Chef](https://www.chef.io)  
-	- [LniuxKit](https://github.com/linuxkit/linuxkit)
-	- [CFEngine](https://cfengine.com/)  	
-	- [Puppet](https://puppet.com/)  
-	- [Rundeck](https://www.rundeck.com/)
-	- [Saltstack](https://saltstack.com/)  
+	- [Ansible](https://www.ansible.com/) - Ansible is designed around the way people work and the way people work together.
+	- [Chef](https://www.chef.io) - Ship better software, faster.Enable collaboration and continuous automation across your infrastructure, applications, and compliance for all your apps and infrastructure. 
+	- [LniuxKit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
+	- [CFEngine](https://cfengine.com/) - CFEngine Community
+	- [Puppet](https://puppet.com/) - Server automation framework and application
+	- [Rundeck](https://www.rundeck.com/) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
+	- [Saltstack](https://saltstack.com/) - Intelligent automation for a software-defined world
 
 - Infrastructure Automation
   > Infrastructure automation makes servers and VM management more flexible, efficient, and scalable by converting management tasks and policy into code.
@@ -133,30 +133,30 @@
   > Network Segmentation and Policy,SDN & APIs (eg CNI, libnetwork)
   
   Incubating CNCF Projects
-  - [CNI](https://rook.io/)
+  - [CNI](https://github.com/containernetworking) - Container Network Interface - networking for Linux containers
   
   CNCF Member Products/Projects
-  - [Aporeto]()
-  - [Cannl]()  
-  - [Contiv]()
-  - [Flannel]()  
-  - [NSX]()
-  - [Open vSwitch]()  
-  - [OpenContrial]()
-  - [Project Calico]()  
-  - [Weave Net]()
+  - [Aporeto](https://www.aporeto.com/) - Cloud Native Security for Containers and Microservices
+  - [Cannl](https://github.com/projectcalico/canal) - Policy based networking for cloud native applications
+  - [Contiv](https://contiv.github.io/) - Container networking for various use cases
+  - [Flannel](https://github.com/coreos/flannel/) - flannel is a network fabric for containers, designed for Kubernetes
+  - [NSX](https://www.vmware.com/products/nsx.html) - VMware is a software company providing cloud and virtualization services.
+  - [Open vSwitch](https://openvswitch.org/) - Open vSwitch is a multilayer software switch licensed under the open source Apache 2 license.
+  - [OpenContrial](http://www.opencontrail.org/) - An open-source network virtualization platform for the cloud.
+  - [Project Calico](https://www.projectcalico.org/) - Cloud native application connectivity and network policy 
+  - [Weave Net](https://www.weave.works/oss/net/) - Simple, resilient multi-host Docker networking and more.
   
   Non-CNCF Member Products/Projects
-  - [Aviatrix]()
-  - [Big Switch Networks]()  
-  - [Cilium]()
-  - [Cumulus]()  
-  - [GuardiCoreCentra]()
-  - [MidoNet]()  
-  - [Nuage Networks]()
-  - [Plumgrid]()  
-  - [Romana]()  
-  - [SnapRoute]()          
+  - [Aviatrix](https://aviatrix.com/) - The company develops software that enables enterprises to build hybrid clouds by easily
+  - [Big Switch Networks](https://www.bigswitch.com/) - Big Switch Networks is the Next-Generation Data Center Networking Company, designing intelligent, agile and flexible networks 
+  - [Cilium](https://www.cilium.io/) - HTTP, gRPC, and Kafka Aware Security and Networking for Containers with BPF and XDP
+  - [Cumulus](https://cumulusnetworks.com/) - Cumulus Networks, a software company, designs, and sells Linux operating systems for networking hardware.
+  - [GuardiCoreCentra](https://www.guardicore.com/workloads-protection-hybrid-clouds/) - GuardiCore provides network security solutions for software defined data centers.
+  - [MidoNet](https://www.midonet.org/) - MidoNet is an Open Source network virtualization system for Openstack clouds
+  - [Nuage Networks](http://www.nuagenetworks.net/) - Nuage Networks Fundamentals: Software Defined Networking for the Datacenter and Beyond.
+  - [Plumgrid](https://www.vmware.com/products/nsx.html) - PLUMgrid is involved in virtual networking and SDN/NFV to deliver cloud infrastructure solutions that transform businesses. 
+  - [Romana](http://romana.io/) - The Romana Project - Installation scripts, documentation, issue tracker and wiki. Start here.
+  - [SnapRoute](https://snaproute.com/) - SnapRoute is an open networking stack company.   
     
 - Cloud-Native Storage
   > Volume Drivers/Plugins,Local Storage Management,Remote Storage Access
@@ -181,53 +181,53 @@
   - [StorageOS](https://storageos.com/) - Enterprise persistent storage for containers and the cloud.
   
   Non-CNCF Member Products/Projects
-  - [Datera]()
-  - [Hedving]()
-  - [Infinit]()
-  - [LeoFS]()
-  - [OpenIO]()
-  - [Pure Storage]()
-  - [Quobyte]()
-  - [Robin Systems]() 
-  - [Sheepdog]()
-  - [Springpath]()
-  - [Swift]()      
+  - [Datera](https://datera.io/) - Datera is an application-driven data infrastructure company.
+  - [Hedving](https://www.hedviginc.com/) - Modern storage for the modern business.
+  - [Infinit](https://www.infinit.sh/) - The Elle coroutine-based asynchronous C++ development framework.
+  - [LeoFS](https://leo-project.net/leofs/) - The LeoFS Storage System
+  - [OpenIO](https://www.openio.io/) - OpenIO Software Defined Storage
+  - [Pure Storage](https://www.purestorage.com/) - Pure Storage is an all-flash enterprise storage company that enables broad deployment of flash in data centers.
+  - [Quobyte](https://www.quobyte.com/) - Data Center File System. Fast and Reliable Software Storage
+  - [Robin Systems](https://robinsystems.com/) - Data-Centric Compute and Storage Containerization Infrastructure Software
+  - [Sheepdog](https://sheepdog.github.io/sheepdog/) - Distributed Storage System for QEMU
+  - [Springpath](http://springpathinc.com/) - Springpath is hyperconvergence software that turns standard servers of choice into a single pool of compute and storage resources.
+  - [Swift](https://docs.openstack.org/swift/latest/) - OpenStack Storage (Swift)
   
 - Container Runtime
   > The new CF Container Runtime gives you more granular control and management of containers with Kubernetes.
   
   Incubating CNCF Projects 
-  - [containerd]()
-  - [rkt]()
+  - [containerd](https://containerd.io/) 
+  - [rkt](https://github.com/rkt/rkt) - rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
   
   CNCF Member Products/Projects
-  - [CRI-O]()
-  - [Intel Clear Containers]()
-  - [Ixd]() 
-  - [Pouch]()
-  - [runc]()
-  - [SmartOS]()   
+  - [CRI-O](http://cri-o.io/) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
+  - [Intel Clear Containers](https://clearlinux.org/containers) - OCI (Open Containers Initiative) compatible runtime using Virtual Machines
+  - [Ixd](https://linuxcontainers.org/lxd/) - Daemon based on liblxc offering a REST API to manage containers
+  - [Pouch](https://github.com/alibaba/pouch) - Pouch is an open-source project created to promote the container technology movement.
+  - [runc](https://www.opencontainers.org/) - CLI tool for spawning and running containers according to the OCI specification
+  - [SmartOS](https://www.joyent.com/smartos) - Converged Container and Virtual Machine Hypervisor
     
   Non-CNCF Member Products/Projects  
-  - [Kata Containers]()
-  - [RunV]()
-  - [Singularity]()       
+  - [Kata Containers](https://katacontainers.io/) - Kata Containers runtimes
+  - [RunV](https://github.com/hyperhq/runv) - Hypervisor-based Runtime for OCI
+  - [Singularity](https://www.sylabs.io/) - Singularity: Application containers for Linux       
   
 ## Orchestration & Management
 
 - Scheduling & Orchestration
 
   Graduated CNCF Projects
-  - [Kubernetes]()  
+  - [Kubernetes](https://kubernetes.io/) - Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications
   
   CNCF Member Products/Projects
-  - [ECS]()    
-  - [Docker Swarm]()   
-  - [Microsoft Azure Service Fabric]()     
+  - [ECS](https://aws.amazon.com/ecs/) - Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
+  - [Docker Swarm](https://docs.docker.com/engine/swarm/) -  Swarm: a Docker-native clustering system 
+  - [Microsoft Azure Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.   
     
   Non-CNCF Member Products/Projects
-  - [Mesos]()   
-  - [Nomad]()         
+  - [Mesos](https://mesos.apache.org/) - Mirror of Apache Mesos
+  - [Nomad](https://www.nomadproject.io/) - Nomad is a flexible, enterprise-grade cluster scheduler designed to easily integrate into existing workflows.       
     
 - Coordination & Service Discovery
 
@@ -247,6 +247,31 @@
   - [SmartStack](https://medium.com/airbnb-engineering/smartstack-service-discovery-in-the-cloud-4b8a080de619) - A transparent service discovery framework for connecting an SOA       
 
 - Service Management
+
+  - [Envoy](https://envoyproxy.github.io/) - C++ front/service proxy
+  - [gRPC](https://grpc.io/) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+  - [Linkerd](https://linkerd.io/) - Production-grade feature-rich service mesh for any platform
+  - [3Scale](https://www.3scale.net/) - 3scale api gateway reloaded
+  - [Ambassador](https://www.getambassador.io/) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
+  - [Avi Networks](https://avinetworks.com/) - Avi Networks is a Silicon Valley startup with proven track record in building virtualization, networking and software solutions.
+  - [Conduit](https://conduit.io/) - Ultralight service mesh for Kubernetes
+  - [F5](https://f5.com/) -  F5 Networks provides application delivery networking technology that optimizes the delivery of network-based applications.
+  - [Heptio Contour](https://github.com/heptio/contour) - Contour is a Kubernetes ingress controller for Lyft's Envoy proxy.
+  - [Kong](https://www.konghq.com/) - 🐒 The Microservice API Gateway
+  - [NGINX](https://www.nginx.com/) - application delivery for the modern web
+  - [Open Service Broker API](https://www.openservicebrokerapi.org/) - Open Service Broker API Specification
+  - [Turbine Labs](https://www.turbinelabs.io/) - Turbine Labs
+  - [Apache Thrift](https://thrift.apache.org/) - Mirror of Apache Thrift
+  - [Avro](https://avro.apache.org/) - Apache Avro
+  - [Backplane](https://www.backplane.io/) - A service that unifies discovery, routing, and load balancing for web servers written in any language, running in any cloud or datacenter.
+  - [HAProxy](https://www.haproxy.org/) - The Reliable, High Performance TCP/HTTP Load Balancer     
+  - [Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+  - [Istio](https://istio.io/) -  An open platform to connect, manage, and secure microservices.
+  - [Netflix Zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
+  - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - An open source project to policy-enable your service.  
+  - [Ribbon](https://github.com/Netflix/ribbon) - Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. 
+  - [Traefik](https://traefik.io/) - Træfik, a modern reverse proxy
+  - [Vamp](https://vamp.io/) - Vamp - canary releasing and autoscaling for microservice systems.    
 
 ## Application Definition & Development
 
