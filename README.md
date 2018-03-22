@@ -1,5 +1,27 @@
+# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
+
+[![Join the chat at https://gitter.im/Awesome-Windows/Awesome](https://badges.gitter.im/Awesome-Windows/Awesome.svg)](https://gitter.im/Awesome-Windows/Awesome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![ghit.me](https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome)](https://ghit.me/repo/Awesome-Windows/Awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
+
+> An awesome & curated list of best applications and tools for Windows.
+
+> *This Awesome Repository is highly inspired from ichait's [Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")*
+> *Special thanks to [egeerardyn](https://github.com/egeerardyn).*
+
+> *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
+
+
+# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
+
+
 # Cloud-Native
-> 
+
+![Cloud-Native](https://github.com/wh211212/Cloud-Native/raw/master/Images/CloudNativeLandscape_latest.png)
+
+# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
+
+![Cloud-Native](https://github.com/wh211212/Cloud-Native/raw/master/Images/TableOfContents.png)
+
 ## Components 
 
 - [Cloud](#cloud)
@@ -277,13 +299,41 @@
   - [Starburst](https://www.starburstdata.com/) - Starburst (www.starburstdata.com) is the enterprise Presto company offering an SQL-on-Anything analytics platform. 
   - [TiDB](https://pingcap.com/index) - TiDB is a distributed HTAP database compatible with the MySQL protocol.
   - [Vertica](https://www.vertica.com/) - Vertica Systems develops data management solutions for storing databases and allowing clients to conduct real-time and ad hoc queries.         
+
+- Streaming
+
+  Incubating CNCF Projects
+  - [NATS](https://nats.io/) - High-Performance server for NATS, the cloud native messaging system.
+
+  CNCF Member Products/Projects
+  - [Amazon Kinesis](https://aws.amazon.com/kinesis/) - Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
+  - [CloudEvents](https://openevents.io/) - CloudEvents Specification
+  - [Google Cloud Dataflow](https://cloud.google.com/dataflow/) - Google is a multinational corporation that is specialized in internet-related services and products.
+  - [Heron](https://twitter.github.io/heron/) - Heron is a realtime, distributed, fault-tolerant stream processing engine from Twitter
+  
+  Non-CNCF Member Products/Projects  
+  - [Apache Apex](https://apex.apache.org/) - Mirror of Apache Apex core
+  - [Apache NiFi](https://nifi.apache.org/) - Mirror of Apache NiFi
+  - [Apache RocketMQ](https://rocketmq.apache.org/) - Mirror of Apache RocketMQ
+  - [Apache Spark](https://spark.apache.org/) - Mirror of Apache Spark
+  - [Apache Storm](https://storm.apache.org/) - Mirror of Apache Storm
+  - [Flink](https://flink.apache.org/) - Mirror of Apache Flink	  
+  - [Kafka](https://kafka.apache.org/) - Mirror of Apache Kafka
+  - [Pulsar](https://pulsar.apache.org/) - Pulsar - distributed pub-sub messaging system
+  - [RabbitMQ](https://www.rabbitmq.com/) - RabbitMQ is the most widely deployed open source message broker.
+  - [StreamSets](https://streamsets.com/) - StreamSets DataCollector - Continuous big data ingest infrastructure. 	   
                   
+- Source Code Management
+
+  CNCF Member Products/Projects
+  - []()
+  - []()
+  - []()
+	                  
 - Application Definition
 - CI & CD
-- Source Code Management
-	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
-- Streaming
-	- [Spanish](https://github.com/dav009/awesome-spanish-nlp)
+
+
 	
 ## Platform
 
