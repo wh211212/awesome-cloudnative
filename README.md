@@ -9,7 +9,7 @@
 
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
 
-# <img src="https://raw.githubusercontent.com/wh211212/Cloud-Native/master/Images/cloudnativelog.png" width="500" alt="Cloud Native">
+<!-- <img src="https://raw.githubusercontent.com/wh211212/Cloud-Native/master/Images/cloudnativelog.png" width="500" alt="Cloud Native"> -->
 
 ## Cloud Native Services
 
@@ -482,7 +482,7 @@
 
 Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
 
-**[⬆ back to top](#Components)**
+**[⬆ back to top](#components)**
 
 ## License
 
