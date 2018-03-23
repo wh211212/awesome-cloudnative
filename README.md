@@ -344,16 +344,56 @@
                   
 - Source Code Management
 
-  CNCF Member Products/Projects
-  - []()
-  - []()
-  - []()
+  - [GitHub](https://github.com/) - GitHub is a web-based Git repository hosting service offering distributed revision control and source code management functionality of Git.
+  - [GitLab](https://gitlab.com/) - GitLab CE | Please open new issues in our issue tracker on GitLab.com
+  - [Visual Studio Team Services](https://www.visualstudio.com/team-services/) - Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
+  - [Bitbucket](https://bitbucket.org/) - Atlassian provides collaboration software for teams with products including JIRA, Confluence, HipChat, Bitbucket, and Stash.
 	                  
 - Application Definition
+  - [Bitnami](https://bitnami.com/) - Loved by Devs, Trusted by Ops. Easy to use cloud images, containers, and VMs that work on any platform
+  - [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker
+  - [Habitat](https://www.habitat.sh/) - Modern applications with built-in automation
+  - [OpenAPI](https://www.openapis.org/) - The OpenAPI Specification Repository
+  - [Telepresence](https://www.telepresence.io/) - Local development against a remote Kubernetes or OpenShift cluster
+  - [Apache Brooklyn](https://brooklyn.apache.org/) - Apache Brooklyn
+  - [KubeVirt](https://www.kubevirt.io/) - A virtualization API and runtime add-on for Kubernetes in order to define and manage virtual machines.
+  - [Packer](https://www.packer.io/) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  
 - CI & CD
 
-
-	
+  > Continuous integration and continuous delivery are two approaches to software development that are designed to improve code quality and enable rapid delivery and deployment of code.
+  
+  CNCF Member Products/Projects
+  - [Argo](https://applatix.com/open-source/argo/) - Get stuff done with container-native workflows for Kubernetes.
+  - [Cloud 66 Skycap](https://www.cloud66.com/containers/skycap) - Ops tools for Devs. Build, deliver, deploy and manage any applications on any cloud or server.
+  - [Cloudbees](https://www.cloudbees.com/) - CloudBees offers CloudBees Jenkins Enterprise, an enterprise-grade continuous delivery platform powered by Jenkins.
+  - [Codefresh](https://codefresh.io/) - Codefresh is a continuous delivery and collaboration platform for containers and microservices.
+  - [Codeship](https://codeship.com/) - CloudBees offers CloudBees Jenkins Enterprise, an enterprise-grade continuous delivery platform powered by Jenkins.
+  - [Concourse](https://concourse.ci/) - BOSH release and development workspace for Concourse
+  - [ContainerOps](https://containerops.org/) - DevOps Orchestration Platform 
+  - [Habitus](https://www.habitus.io/) - A Build Flow Tool for Docker
+  - [Runner](https://docs.gitlab.com/runner/) - GitLab Runner is the open source project that is used to run your jobs and send the results back to GitLab. 
+  - [Weave Flux](https://www.weave.works/oss/flux/) - A tool for deploying container images to Kubernetes services
+  - [Wercker](https://www.wercker.com/) - The Wercker CLI can be used to execute pipelines locally for both local development and easy introspection.
+  
+  Non-CNCF Member Products/Projects
+  - [Appveyor](https://www.appveyor.com/) - Appveyor Systems Inc. aim is to give powerful continuous integration and deployment tools to every .NET developer.  
+  - [Bamboo](https://www.atlassian.com/software/bamboo/) - Atlassian provides collaboration software for teams with products including JIRA, Confluence, HipChat, Bitbucket, and Stash.
+  - [BuddyBuild](https://www.buddybuild.com/) - Buddybuild is a Vancouver-based app tools company focused on continuous integration and debugging tools.
+  - [Buildkite](https://buildkite.com/) - The Buildkite Agent is an open-source toolkit written in Golang for securely running build jobs on any device or network
+  - [CircleCI](https://circleci.com/) - CircleCI provides software teams the confidence to build, test, and deploy across numerous platforms.
+  - [Distelli](https://www.distelli.com/) - True Continuous Delivery from Source Control to Servers.
+  - [Drone](http://try.drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go
+  - [Jenkins](https://jenkins.io/) - Build great things at any scale
+  - [Octopus Deploy](https://octopus.com/) - Octopus Deploy is a user-friendly release management
+  - [OpenStack Zuul CI](https://zuul-ci.org/) - The Gatekeeper, or a project gating system
+  - [Semaphore](https://semaphoreci.com/) - Hosted continuous integration and deployment service
+  - [Shippable](https://www.shippable.com/) - Shippable helps companies ship code faster by giving them a powerful continuous integration platform built natively on Docker.
+  - [Solano Labs](https://www.solanolabs.com/) - Continuous Integration & Deployment       
+  - [Spinnaker](https://www.spinnaker.io/) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+  - [Travis](https://travis-ci.com/) - The Ember web client for Travis CI
+  - [XL Deploy](https://xebialabs.com/products/xl-deploy/) - XebiaLabs develops enterprise-scale Continuous Delivery and DevOps software.    
+  
 ## Platform
 
 - Certified Kubernetes - Distribution
@@ -363,27 +403,86 @@
 
 ## Serverless
 
+- Security
+- Libraries
+- Tools
 - Frameworks
+- Platforms
 - Hybrid Platforms
 - Kubernetes-Native Platforms
-- Libraries
-- Platforms
-- Security
-- Tools
 
 ## Observability & Analysis
 
 - Monitoring
-- Logging
-- Tracing
 
+  CNCF Member Products/Projects 
+  - [Prometheus](https://prometheus.io/) - The Prometheus monitoring system and time series database.
+  - [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/) - Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
+  - [Datadog](https://www.datadoghq.com/) - Datadog offers a cloud-scale monitoring service.
+  - [Dynatrace](https://www.dynatrace.com/) - Dynatrace transform how Web and non-Web business-critical applications are monitored, managed, and optimized throughout their lifecycle.
+  - [Google Stackdriver](https://cloud.google.com/stackdriver/) - Google is a multinational corporation that is specialized in internet-related services and products.  
+  - [Grafana](https://grafana.com/) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+  - [InfluxDB](https://www.influxdata.com/) - Scalable datastore for metrics, events, and real-time analytics
+  - [Instana](https://www.instana.com/) - Instana is an APM solution that automatically monitors dynamic modern apps.
+  - [Lighstep](https://lightstep.com/) - LightStep's mission is to cut through the scale and complexity of today's software to help organizations stay in control of their systems.
+  - [Log Analytics](https://azure.microsoft.com/en-us/services/log-analytics/) - Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
+  - [Netsil](https://netsil.com/) - Observability and Monitoring for Modern Cloud Applications
+  - [SignalFX](https://signalfx.com/) - Advanced monitoring platform for modern applications
+  - [Snap](https://snap-telemetry.io/) - A powerful open telemetry framework.Easily collect, process, and publish telemetry data at scale.
+  - [SysDig](https://sysdig.com/) - Linux system exploration and troubleshooting tool with first class support for containers
+  - [Weave Cloud](https://www.weave.works/product/cloud/) - Weaveworks provides a simple and consistent way to connect and manage containers and microservices.
+  
+  Non-CNCF Member Products/Projects
+  - [AppDynamics](https://www.appdynamics.com/) - AppDynamics develops application performance management (APM) solutions that deliver problem resolution for highly distributed applications.
+  - [AppNeta](https://www.appneta.com/) - AppNeta is the only app performance monitoring company with solutions for apps you develop, SaaS apps you use & networks that deliver them.
+  - [Axibase](https://axibase.com/) - Purpose-built solution for analyzing and reporting on massive volumes of time-series data collected at high frequency.
+  - [Catchpoint Systems](https://www.catchpoint.com/) - Catchpoint is a leading digital experience intelligence company.
+  - [Centreon](https://www.centreon.com/en/) - Centreon is a network, system, applicative supervision and monitoring tool.
+  - [Cobe](https://cobe.io/) - Cobe delivers an aggregated view of every element related to your business.
+  - [CoScale](https://www.coscale.com/) - Full stack performance monitoring. Built for container and microservices applications. Powered by anomaly detection.
+  - [Graphite](https://graphiteapp.org/) - A highly scalable real-time graphing system
+  - [Honeybadger](https://www.honeybadger.io/) - Exception, uptime, and performance monit.
+  - [Icinga](https://www.icinga.com/) - Monitoring as code
+  - [IronDB](https://www.circonus.com/irondb/) - Realtime Monitoring and Analytics
+  - [Librato](https://www.librato.com/) - Real time operations analytics for metrics from any source
+  - [Meros](https://meros.io/) - Meros is creating enterprise monitoring and management tools for Docker
+  - [Nagios](https://www.nagios.com/) - The Industry Standard In IT Infrastructure Monitoring.
+  - [New Relic](https://newrelic.com/) - New Relic is a leading digital intelligence company, delivering full-stack visibility and analytics to enterprises around the world.
+  - [NodeSource](https://nodesource.com/) - Building products focused on Node.js security and performance for the Enterprise.
+  - [OpBeat](https://opbeat.com/) - Opbeat is joining forces with Elastic.
+  - [OpenTSDB](http://opentsdb.net/) - A scalable, distributed Time Series Database.
+  - [OpsClarity](https://www.opsclarity.com/) - Intelligent Monitoring for Modern Applications and Data Infrastructure
+  - [Outlyer](https://www.outlyer.com/) - Infrastructure monitoring platform made for DevOps and microservices.
+  - [Rocana](https://www.rocana.com/) - Rocana is a San Francisco, CA-based provider of root cause analysis software company
+  - [Sensu](https://sensuapp.org/) - Monitoring for today's infrastructure.
+  - [Sentry](https://sentry.io/) - Sentry is a cross-platform crash reporting and aggregation platform.
+  - [Server Density](https://www.serverdensity.com/) - Monitoring agent for Server Density (Linux, FreeBSD and OS X)
+  - [StackRox](https://www.stackrox.com/) - StackRox delivers the industry's only adaptive threat protection for containers.
+  - [StackState](https://www.stackstate.com/) - The market-leading Algorithmic IT Operations platform
+  - [Tingyun](http://www.tingyun.com/tingyun_app.html) - Observability and Analysis, Monitoring
+  - [Wavefront](https://www.wavefront.com/) - Wavefront is a hosted platform for ingesting, storing, visualizing and alerting on time series data.
+  - [Zabbix](https://www.zabbix.com/) - The Ultimate Enterprise - class Monitoring Platform  
+    
+- Logging
+
+  - [Fluentd](https://www.fluentd.org/) - Fluentd: Unified Logging Layer (project under CNCF)
+  - [Humio](https://www.humio.com/) - Log everything, answer anything
+  - [Splunk](https://www.splunk.com/) - Splunk provides operational intelligence software that monitors, reports, and analyzes real-time machine data.
+  - [Elastic](https://www.elastic.co/) - Open Source, Distributed, RESTful Search Engine.
+  - [Graylog](https://www.graylog.org/) - Free and open source log management
+  - [Loggly](https://www.loggly.com/) - Loggly parses your log files, shows you the code in GitHub which caused the log errors. 10,000+ customers, including 1/3 of the Fortune 500.
+  - [Logz](https://logz.io/) - Logz.io is an enterprise-grade ELK as a service with alerts, unlimited scalability, and predictive fault detection.
+  - [Loom Systems](https://www.loomsystems.com/) - Predict & Prevent Problems in the Digital Business
+  - [Sematext](https://sematext.com/) -  Sematext is a Search and Big Data analytics products and services company.
+  - [Sumo Logic](https://www.sumologic.com/) - Sumo Logic, a log management and analytics service, transforms big data into sources of operations, security and compliance intelligence.
+
+- Tracing
 
 ## Contribute
 
 Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
 
-**[⬆ back to top](#applications)**
-
+**[⬆ back to top](#Components)**
 
 ## License
 
