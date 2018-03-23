@@ -397,20 +397,180 @@
 ## Platform
 
 - Certified Kubernetes - Distribution
+  - [Apprenda Kismatic Enterprise Toolkit (KET)](https://apprenda.com/kismatic/)
+  - [Appscode Pharmer](https://appscode.com/products/pharmer/)
+  - [Caicloud Compass](https://caicloud.io/products/compass)
+  - [Canonical Distribution of Kubernetes](https://www.ubuntu.com/kubernetes)
+  - [Cloud Foundry Container Runtime](https://www.cloudfoundry.org/container-runtime/)
+  - [CoreOS bootkube](https://github.com/kubernetes-incubator/bootkube)
+  - [DaoCloud Enterprise](https://www.daocloud.io/)
+  - [Diamanti Converged Container Infrastructure](https://diamanti.com/products/)
+  - [Docker EE/CE](https://www.docker.com/kubernetes)
+  - [Ghostcloud EcOS](https://www.ghostcloud.cn/ecos-kubernetes/)
+  - [Giant Swarm Managed Kubernetes](https://giantswarm.io/product/)
+  - [Google Kube-Up](https://github.com/kubernetes/kubernetes/tree/master/cluster)
+  - [Heptio Quickstart for Kubernetes](https://aws.amazon.com/quickstart/architecture/heptio-kubernetes/)
+  - [IBM Cloud Private](https://www.ibm.com/cloud-computing/products/ibm-cloud-private/)
+  - [inwinSTACK kube-ansible](https://github.com/inwinstack/kube-ansible)
+  - [Joyent Triton for Kubernetes](https://www.joyent.com/triton/compute)
+  - [kube-spawn](https://github.com/kinvolk/kube-spawn)
+  - [Kublr](https://kublr.com/)
+  - [Loodse Kubermatic](https://cloud.kubermatic.io/)
+  - [Mesosphere Kubernetes on DC/OS](https://mesosphere.com/kubernetes/)
+  - [Mirantis Cloud Platform](https://www.mirantis.com/software/kubernetes/)
+  - [Netease Container Service Dedicated](https://www.163yun.com/product/container-service-dedicated)
+  - [OpenShift](https://www.openshift.com/)
+  - [Oracle Linux Container Services](https://blogs.oracle.com/linux/announcing-oracle-linux-container-services-for-use-with-kubernetes)
+  - [Oracle Terraform Kubernetes Installer](https://github.com/oracle/terraform-kubernetes-installer)
+  - [Pivotal Container Service (PKS)](https://pivotal.io/platform/pivotal-container-service)
+  - [Platform9 Managed Kubernetes](https://platform9.com/managed-kubernetes/)
+  - [QFusion](http://www.woqutech.com/product.html)
+  - [Rancher](https://rancher.com/)
+  - [Samsung Kraken](https://samsung-cnct.github.io/)
+  - [StackPointCloud](https://stackpoint.io/)
+  - [SUSE CaaS Platform](https://www.suse.com/products/caas-platform)
+  - [Tectonic](https://coreos.com/tectonic)
+  - [VMWare Pivotal Container Service (PKS)](https://www.vmware.com/radius/pivotal-container-services/)
+  - [Weaveworks kubeadm](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/)
+  - [WiseCloud](http://www.wise2c.com/solution)
+  - [Typhoon](https://typhoon.psdn.io/)
+          
 - Certified Kubernetes - Platform
+  - [Alauda EE](http://www.alauda.cn/product/detail/id/144.html)
+  - [Alibaba Cloud Container Service](https://www.alibabacloud.com/product/container-service?spm=a3c0i.7911826.709257.dproducta4.1010a3feFbGgBW)
+  - [Azure (ACS) Engine](https://github.com/Azure/acs-engine)
+  - [Azure Container Service (AKS)](https://azure.microsoft.com/en-us/services/container-service/)
+  - [Baidu Cloud Container Engine](https://cloud.baidu.com/product/cce.html)
+  - [BoCloud BeyondcentContainer](http://bocloud.com.cn/product_container.html)
+  - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
+  - [EasyStack Kubernetes Service (EKS)](https://easystack.cn/eks/)
+  - [eKing Cloud Container Platform](http://www.haihangyun.com/landing)
+  - [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine/)
+  - [HarmonyCloud Container Platform](http://harmonycloud.cn/)
+  - [Hasura](https://hasura.io/)
+  - [Huawei Cloud Container Engine (CCE)](https://www.huaweicloud.com/en-us/product/cce.html)
+  - [IBM Cloud Container Service](https://console.bluemix.net/docs/containers/cs_ov.html#cs_ov)
+  - [Nirmata Managed Kubernetes](https://www.nirmata.com/)
+  - [Oracle Container Engine](https://cloud.oracle.com/containers/engine/features)
+  - [SAP Certified Gardener](https://cloudplatform.sap.com/index.html)
+  - [Tencent Cloud Container Service (CCS)](https://cloud.tencent.com/product/ccs?lang=en)
+  - [TenxCloud Container Engine (TCE)](https://tenxcloud.com/enterprise.html)
+  - [ZTE TECS](https://sdnfv.zte.com.cn/en/products/126)  
+
 - Non-Certified Kubernetes
+  - [Amazon Elastic Container Service for Kubernetes (EKS)](https://aws.amazon.com/eks/)
+  - [Cloud 66 Maestro](https://www.cloud66.com/containers/maestro)
+  - [Containership](https://containership.io/)
+  - [Gravitatonal Telekube](https://gravitational.com/telekube/)
+  - [Huawei FusionStage](http://e.huawei.com/us/solutions/technical/cloud-computing)
+  - [Navops](https://www.navops.io/)
+  - [Supergiant](https://supergiant.io/)
+  - [goPaddle](https://www.gopaddle.io/#/)
+  - [Stratoscale Symphony](https://www.stratoscale.com/products/symphony/)
+  
 - PaaS & Container Service
+  - [Apcera](https://www.apcera.com/) - Ericsson is a technology company that provides and operates telecommunications networks, television and video systems, and related services.
+  - [Cloud Foundry Application Runtime](https://www.cloudfoundry.org/application-runtime/) - Cloud Foundry Application Runtime utilizes containers as part of its DNA, and has since before Docker popularized containers. The new CF Container Runtime gives you more granular control and management of containers with Kubernetes.
+  - [Datawire](https://www.datawire.io/) - An early stage startup that's focused on making it easy for developers to build resilient microservices.
+  - [Exoscale](https://www.exoscale.ch/) - Exoscale is the cloud hosting platform for SaaS companies, developers and systems administrators.
+  - [Galactic Fog](http://www.galacticfog.com/) - Build Future-Proof Applications. Simplify integration. Run applications anywhere. Adapt to changes instantly.
+  - [Heroku](https://www.heroku.com/) - Salesforce is a global cloud computing company that develops CRM solutions and provides business software on a subscription basis.
+  - [Atomist](Atomist) - Atomist make microservice applications Easy and fun to build, through a cloud-based service.
+  - [Clouber](https://www.clouber.io/) - Clouber is a provider of mCenter, an Application Modernization/Migration / Management platform across hybrid (public and private) clouds.
+  - [Convox](https://convox.com/) - Launch a Private Cloud in Minutes.
+  - [Empire](http://engineering.remind.com/) - A PaaS built on top of Amazon EC2 Container Service (ECS)
+  - [Flynn](https://flynn.io/) - A next generation open source platform as a service (PaaS
+  - [Hyper](https://www.hyper.sh/) - Hyper.sh is a secure container cloud service.
+  - [JHipster](https://www.jhipster.tech/) - Open Source application generator for creating Spring Boot + Angular projects in seconds!
+  - [Kontena](https://kontena.io/) - The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use.
+  - [Lightbend](https://www.lightbend.com/) - Lightbend (formerly Typesafe) is dedicated to helping developers build Reactive applications on the JVM.
+  - [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+  - [PaaSTA](https://github.com/Yelp/paasta) - An open, distributed platform as a service
+  - [Platform.sh](https://platform.sh/) - Platform.sh is an automated, continuous-deployment high-availability cloud hosting solution
+  - [Portainer](https://portainer.io/) - Simple management UI for Docker
+  - [Scalingo](https://scalingo.com/) - Scalingo a Docker Platform Service Transform your code as Docker container & run it on our cloud, making it instantly available & scalable.
+  - [Tsuru](https://tsuru.io/) - Open source, extensible and Docker-based Platform as a Service (PaaS).
 
 ## Serverless
 
 - Security
+  - [PureSec](https://www.puresec.io/) - PureSec is the world's leading Serverless Security Runtime Environment
+  - [Snyk](https://snyk.io/) - Snyk is a security company helping to monitor app vulnerabilities.
+  
 - Libraries
-- Tools
-- Frameworks
-- Platforms
-- Hybrid Platforms
-- Kubernetes-Native Platforms
+  - [Python Lambda](https://aws.amazon.com/lambda/) - A toolkit for developing and deploying serverless Python code in AWS Lambda.
 
+- Tools
+  - [Architect](https://arc.codes/) - 🔑 cloud function signatures for http handlers, pubsub, scheduled functions and table triggers
+  - [Dashbird](https://www.dashbird.io/) - AWS Lambda monitoring & debugging platform. Serverless observability & troubleshooting. Serverless monitoring.
+  - [IOpipe](https://www.iopipe.com/) - IOpipe provides a toolbox for developing, monitoring, and operating serverless applications.
+  - [Microcule](https://github.com/Stackvana) - SDK and CLI for spawning streaming stateless HTTP microservices in multiple programming languages
+  - [Node Lambda](https://github.com/motdotla/node-lambda) - Command line tool to locally run and deploy your node.js application to Amazon Lambda
+  - [Stackery](https://www.stackery.io/) - Run serverless in production with Stackery's serverless operations console.
+  - [Thundra](https://www.thundra.io/) - IT Alert and Notifications Management
+  
+- Frameworks
+  - [AWS Chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
+  - [SAM Local](https://github.com/awslabs/serverless-application-model) - AWS Serverless Application Model (AWS SAM) prescribes rules for expressing Serverless applications on AWS.
+  - [Serverless](https://serverless.com/) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! 
+  - [Spring Cloud Function](https://cloud.spring.io/spring-cloud-function/) - Pivotal is a software company that provides digital transformation technology and services.
+  - [Apex](http://apex.run/) - Build, deploy, and manage AWS Lambda functions with ease (with Go support!).
+  - [Bustle Shep](https://www.bustle.com/labs) - A framework for building JavaScript Applications with AWS API Gateway and Lambda
+  - [ClaudisJS](https://claudiajs.com/) - Deploy Node.js projects to AWS Lambda and API Gateway easily
+  - [Dawson](https://github.com/dawson-org) - A serverless web framework for Node.js on AWS (CloudFormation, CloudFront, API Gateway, Lambda)
+  - [Flogo](http://flogo.io/) - Ultralight Edge Microservices Framework
+  - [Gordon](http://jorgebastida.com/) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation
+  - [GunIO Zappa](https://www.zappa.io/) - Serverless Python
+  - [KappaIO](https://github.com/garnaat/kappa) - What precedes Lambda 
+  - [Mitoc Group Deep](https://docs.deep.mg/) - Full-stack JavaScript Framework for Cloud-Native Web Applications (perfect for Serverless use cases)
+  - [Sparta](https://gosparta.io/) - A GO FRAMEWORK FOR AWS LAMBDA 
+  
+- Platforms
+
+  CNCF Member Products/Projects 
+  - [AWS Lambda](https://aws.amazon.com/lambda/) - Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
+  - [Azure Functions](https://azure.microsoft.com/en-us/services/functions//) - Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
+  - [Google Cloud Functions](https://cloud.google.com/functions/) - https://cloud.google.com/functions/
+  - [IBM Cloud Functions](https://console.bluemix.net/openwhisk/) - IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
+  - [Twilio Functions](https://www.twilio.com/functions) - Twilio is a cloud communication company that enables users to use standard web languages to build voice, VoIP, and SMS apps via a web API.
+  
+  Non-CNCF Member Products/Projects
+  - [Algorithmia](https://algorithmia.com/serverless-ai-layer) - Algorithmia is an open marketplace for algorithms, enabling developers to create tomorrows smart applications today.
+  - [Apache OpenWhisk](https://openwhisk.apache.org/) - Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project.
+  - [AppScale](https://www.appscale.com/) - AppScale is an easy-to-manage serverless platform for building and running scalable web and mobile applications on any infrastructure.
+  - [Clay](https://www.clay.run/) - Rapid Prototyping for Developers
+  - [Hyper Func](https://docs.hyper.sh/Feature/container/func.html) - Hyper.sh is a secure container cloud service.
+  - [Iron.io](https://www.iron.io/) - Iron.io is a scalable cloud-based message queue and processing platform for building distributed cloud applications.
+  - [Nano Lambda](http://nano-lambda.com/) - Explore deploying code in lambda.Run server-side code with an API call.
+  - [Overclock](https://www.ovrclk.com/) - Overclock Labs develops protocols, tools, and infrastructure to make foundational elements of the internet open, decentralized, and simple
+  - [OVH Functions](https://labs.ovh.com/ovh-functions) - OVH.com is an independent French company that offers web, dedicated, and cloud hosting solutions.
+  - [PubNub Functions](https://www.pubnub.com/products/functions/) - The PubNub Data Stream Network enables mobile and web developers to build and scale realtime apps.
+  - [Spotinst Functions](https://spotinst.com/products/spotinst-functions/) - Our SaaS optimization platform delivers significant cost reduction for AWS and GCE, while maintaining high availability and performance.
+  - [StdLib](https://stdlib.com/) - StdLib Service Creation, Deployment, and Management Tools
+  - [Syncano](https://syncano.io/#/) - A serverless application platform to build powerful realtime apps more efficiently.
+  - [Weblab](https://weblab.io/) - Microservices at your fingertips
+  - [Webtask](https://webtask.io/) - Webtasks is a simple, lightweight, and secure way of running isolated backend code that removed or reduces the need for a backend.
+  - [Zeit Now](https://zeit.co/now) - Now – Realtime Global Deployments
+            
+- Hybrid Platforms
+  - [Galactic Fog Gestalt](http://www.galacticfog.com/product/) - Build Future-Proof Applications. Simplify integration. Run applications anywhere. Adapt to changes instantly.
+  - [Nuclio](https://nuclio.io/) - High-Performance Serverless event and data processing platform
+  - [Binaris](https://www.binaris.com/) - A high-performance serverless platform for interactive and real-time applications.
+  - [Cloudboost](https://www.cloudboost.io/) - One Complete NoSQL Database Service for your app.
+  - [Fn](https://fnproject.io/) - The container native, cloud agnostic serverless platform.
+  - [fx](https://minghe.me/) - fx is a tool to help you do Function as a Service with painless on your own servers
+  - [LunchBadger](https://www.lunchbadger.com/) - LunchBadger is a multi-cloud platform for microservices and serverless.        
+  
+- Kubernetes-Native Platforms
+  - [Fission](https://fission.io/) - Fast Serverless Functions for Kubernetes
+  - [Oracle Application Container Cloud](https://cloud.oracle.com/acc) - Oracle is a computer technology corporation developing and marketing computer hardware systems and enterprise software products.
+  - [Riff](https://projectriff.io/) - riff is for functions
+  - [Funktion](https://funktion.fabric8.io/) - a CLI tool for working with funktion
+  - [Kubeless](http://kubeless.io/) - Kubernetes Native Serverless Framework
+  - [OpenFAAS](https://www.openfaas.com/) - OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes
+  - [OpenLambda](https://open-lambda.org/)  -  An open source serverless computing platform
+  - [PubNub](https://www.pubnub.com/docs/blocks-catalog) - The PubNub Data Stream Network enables mobile and web developers to build and scale realtime apps.
+  
 ## Observability & Analysis
 
 - Monitoring
@@ -477,6 +637,14 @@
   - [Sumo Logic](https://www.sumologic.com/) - Sumo Logic, a log management and analytics service, transforms big data into sources of operations, security and compliance intelligence.
 
 - Tracing
+
+  - [Jaeger](http://jaegertracing.io/) - CNCF Jaeger, a Distributed Tracing System
+  - [OpenTracing](http://opentracing.io/) - OpenTracing API for Go
+  - [Spring Cloud Sleuth](https://cloud.spring.io/spring-cloud-sleuth/) - Distributed tracing for spring cloud
+  - [Appdash](https://github.com/sourcegraph/appdash) - Application tracing system for Go, based on Google's Dapper.
+  - [SkyWalking](http://skywalking.io/) - A distributed tracing system, and APM ( Application Performance Monitoring )
+  - [Zipkin](https://zipkin.io/) - Zipkin is a distributed tracing system
+ 
 
 ## Contribute
 
