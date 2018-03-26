@@ -45,6 +45,7 @@
 	- [Packet Cloud](https://www.packet.net/) - Packet is a bare metal cloud built for developers. 8 minute deploys, no hypervisor, & full automation support from 15 global data centers.
 	- [Tencent Cloud](https://cloud.tencent.com) - Tencent is a Chinese internet service portal offering value-added internet, mobile, telecom, and online advertising services.
 	- [Citrix Cloud](https://citrix.cloud.com/) - Move Faster, Work Better, Lower IT Costs
+	- [Heroku ](https://www.heroku.com) - Heroku is a cloud platform based on a managed container system, with integrated data services and a powerful ecosystem, for deploying and running modern apps.
 
 - [Private](https://azure.microsoft.com/en-us/overview/what-is-a-private-cloud/) - The private cloud is defined as computing services offered either over the Internet or a private internal network and only to select users instead of the general public. Also called an internal or corporate cloud, private cloud computing gives businesses many of the benefits of a public cloud - including self-service, scalability, and elasticity - with the additional control and customization available from dedicated resources over a computing infrastructure hosted on-premises.
 	- [Openstack](https://www.openstack.org/) - Repository containing OpenStack repositories
