@@ -273,7 +273,9 @@
   - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - An open source project to policy-enable your service.  
   - [Ribbon](https://github.com/Netflix/ribbon) - Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. 
   - [Traefik](https://traefik.io/) - Træfik, a modern reverse proxy
-  - [Vamp](https://vamp.io/) - Vamp - canary releasing and autoscaling for microservice systems.    
+  - [Vamp](https://vamp.io/) - Vamp - canary releasing and autoscaling for microservice systems. 
+  - [opnfv](https://www.opnfv.org/) - Open Platform for NFV (OPNFV) facilitates the development and evolution of NFV components across various open source ecosystems.
+  - [Ovirt](https://www.ovirt.org) - oVirt is a complete virtualization management platform, licensed and developed as open source software.
 
 ## Application Definition & Development
 
