@@ -660,7 +660,7 @@
 
   - [nosqlbooster](https://nosqlbooster.com/) - NoSQLBooster for MongoDB (formerly MongoBooster) is a shell-centric cross-platform GUI tool for MongoDB v2.6-3.6, which provides fluent query builder, SQL query SQL Query, update-in-place, ES2017 syntax support and true intellisense experience.
   - [studio3t](https://studio3t.com/) - Studio 3T is the MongoDB GUI and IDE available for Windows, Mac, and Linux.
-  - [FastoRedis](FastoRedis) - FastoRedis (fork of FastoNoSQL) - is a cross-platform open source Redis management tool.
+  - [FastoRedis](https://fastoredis.com/) - FastoRedis (fork of FastoNoSQL) - is a cross-platform open source Redis management tool.
   - [Redis Desktop Manager](https://redisdesktop.com/) - Cross-platform open source Redis DB management tool
   - [Medis](http://getmedis.com/) - Beautiful Management Application for Redis for Mac.
 
