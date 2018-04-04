@@ -66,8 +66,9 @@
 	- [Rackspace Hybrid Cloud](https://www.rackspace.com/cloud/hybrid)	
 	- [Microsoft Hybrid Cloud](https://azure.microsoft.com/en-us/overview/hybrid-cloud/)	
 	- [VMware Hybrid Cloud](https://cloud.vmware.com/)	
-	- [AWS Hybrid Cloud](https://aws.amazon.com/cn/enterprise/hybrid/)						
-
+	- [AWS Hybrid Cloud](https://aws.amazon.com/cn/enterprise/hybrid/)
+  - [owncloud](https://owncloud.org/)	- The last cloud collaboration file sharingfile syncingdata privacy platform you'll ever need.
+  - [nextcloud](https://nextcloud.com/)	- Protecting your data
 ## Provisioning
 
 - Container Registries
