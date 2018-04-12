@@ -391,6 +391,7 @@
   - [Distelli](https://www.distelli.com/) - True Continuous Delivery from Source Control to Servers.
   - [Drone](http://try.drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go
   - [Jenkins](https://jenkins.io/) - Build great things at any scale
+  - [Jenkins-x](http://jenkins-x.io/) - Jenkins X is a CI/CD solution for modern cloud applications on Kubernetes
   - [Octopus Deploy](https://octopus.com/) - Octopus Deploy is a user-friendly release management
   - [OpenStack Zuul CI](https://zuul-ci.org/) - The Gatekeeper, or a project gating system
   - [Semaphore](https://semaphoreci.com/) - Hosted continuous integration and deployment service
