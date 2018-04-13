@@ -69,6 +69,10 @@
 	- [AWS Hybrid Cloud](https://aws.amazon.com/cn/enterprise/hybrid/)
   - [owncloud](https://owncloud.org/)	- The last cloud collaboration file sharingfile syncingdata privacy platform you'll ever need.
   - [nextcloud](https://nextcloud.com/)	- Protecting your data
+
+- [Cloud-Tools]  - Tools that make the cloud complute to be better.
+  
+  - [cloudinit](http://cloudinit.readthedocs.io/en/latest/) - Everything about cloud-init, a set of python scripts and utilities to make your cloud images be all they can be!
 ## Provisioning
 
 - Container Registries
