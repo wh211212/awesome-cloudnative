@@ -445,6 +445,7 @@
   - [Weaveworks kubeadm](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/)
   - [WiseCloud](http://www.wise2c.com/solution)
   - [Typhoon](https://typhoon.psdn.io/)
+  - [Titus](https://github.com/Netflix/titus)
           
 - Certified Kubernetes - Platform
   - [Alauda EE](http://www.alauda.cn/product/detail/id/144.html)
