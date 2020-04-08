@@ -47,7 +47,7 @@
 	- [Tencent Cloud](https://cloud.tencent.com) - Tencent is a Chinese internet service portal offering value-added internet, mobile, telecom, and online advertising services.
 	- [Citrix Cloud](https://citrix.cloud.com/) - Move Faster, Work Better, Lower IT Costs
 	- [Heroku ](https://www.heroku.com) - Heroku is a cloud platform based on a managed container system, with integrated data services and a powerful ecosystem, for deploying and running modern apps.
-  - [Rackspace]https://www.rackspace.com/() - CERTIFIED TO MANAGE THE WORLD’S LEADING CLOUDS. BECAUSE ONE SIZE DOESN’T FIT ALL.
+  - [Rackspace] (https://www.rackspace.com/) - CERTIFIED TO MANAGE THE WORLD’S LEADING CLOUDS. BECAUSE ONE SIZE DOESN’T FIT ALL.
 
 - [Private](https://azure.microsoft.com/en-us/overview/what-is-a-private-cloud/) - The private cloud is defined as computing services offered either over the Internet or a private internal network and only to select users instead of the general public. Also called an internal or corporate cloud, private cloud computing gives businesses many of the benefits of a public cloud - including self-service, scalability, and elasticity - with the additional control and customization available from dedicated resources over a computing infrastructure hosted on-premises.
 	- [Openstack](https://www.openstack.org/) - Repository containing OpenStack repositories
@@ -101,7 +101,7 @@
 - Infrastructure Automation
   > Infrastructure automation makes servers and VM management more flexible, efficient, and scalable by converting management tasks and policy into code.
 	- [AWS CloudFormation](https://aws.amazon.com/cn/cloudformation/)
-	- [HOSH](https://bosh.io) - BOSH is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.
+	- [BOSH](https://bosh.io) - BOSH is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.
 	- [Helm](https://helm.sh/) - Helm is the best way to find, share, and use software built for Kubernetes.
 	- [Infrakit](https://github.com/docker/infrakit) - A toolkit for creating and managing declarative, self-healing infrastructure.
 	- [Juju](https://jujucharms.com/) - Juju is an open source application modelling tool. Deploy, configure, scale and operate your software on public and private clouds.
