@@ -190,7 +190,7 @@
   
   Non-CNCF Member Products/Projects
   - [Datera](https://datera.io/) - Datera is an application-driven data infrastructure company.
-  - [Hedving](https://www.hedviginc.com/) - Modern storage for the modern business.
+  - [Hedvig](https://www.hedviginc.com/) - Modern storage for the modern business.
   - [Infinit](https://www.infinit.sh/) - The Elle coroutine-based asynchronous C++ development framework.
   - [LeoFS](https://leo-project.net/leofs/) - The LeoFS Storage System
   - [OpenIO](https://www.openio.io/) - OpenIO Software Defined Storage
@@ -338,7 +338,7 @@
   - [Amazon Kinesis](https://aws.amazon.com/kinesis/) - Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
   - [CloudEvents](https://openevents.io/) - CloudEvents Specification
   - [Google Cloud Dataflow](https://cloud.google.com/dataflow/) - Google is a multinational corporation that is specialized in internet-related services and products.
-  - [Heron](https://twitter.github.io/heron/) - Heron is a realtime, distributed, fault-tolerant stream processing engine from Twitter
+  - [Heron](https://heron.incubator.apache.org/) - Heron is a realtime, distributed, fault-tolerant stream processing engine from Twitter
   
   Non-CNCF Member Products/Projects  
   - [Apache Apex](https://apex.apache.org/) - Mirror of Apache Apex core
