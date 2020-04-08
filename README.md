@@ -150,7 +150,7 @@
   - [Flannel](https://github.com/coreos/flannel/) - flannel is a network fabric for containers, designed for Kubernetes
   - [NSX](https://www.vmware.com/products/nsx.html) - VMware is a software company providing cloud and virtualization services.
   - [Open vSwitch](https://openvswitch.org/) - Open vSwitch is a multilayer software switch licensed under the open source Apache 2 license.
-  - [OpenContrial](http://www.opencontrail.org/) - An open-source network virtualization platform for the cloud.
+  - [OpenContrail](http://www.opencontrail.org/) - An open-source network virtualization platform for the cloud.
   - [Project Calico](https://www.projectcalico.org/) - Cloud native application connectivity and network policy 
   - [Weave Net](https://www.weave.works/oss/net/) - Simple, resilient multi-host Docker networking and more.
   
