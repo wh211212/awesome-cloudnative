@@ -47,7 +47,7 @@
 	- [Tencent Cloud](https://cloud.tencent.com) - Tencent is a Chinese internet service portal offering value-added internet, mobile, telecom, and online advertising services.
 	- [Citrix Cloud](https://citrix.cloud.com/) - Move Faster, Work Better, Lower IT Costs
 	- [Heroku ](https://www.heroku.com) - Heroku is a cloud platform based on a managed container system, with integrated data services and a powerful ecosystem, for deploying and running modern apps.
-  - [Rackspace]https://www.rackspace.com/() - CERTIFIED TO MANAGE THE WORLD’S LEADING CLOUDS. BECAUSE ONE SIZE DOESN’T FIT ALL.
+  - [Rackspace](https://www.rackspace.com/) - CERTIFIED TO MANAGE THE WORLD’S LEADING CLOUDS. BECAUSE ONE SIZE DOESN’T FIT ALL.
 
 - [Private](https://azure.microsoft.com/en-us/overview/what-is-a-private-cloud/) - The private cloud is defined as computing services offered either over the Internet or a private internal network and only to select users instead of the general public. Also called an internal or corporate cloud, private cloud computing gives businesses many of the benefits of a public cloud - including self-service, scalability, and elasticity - with the additional control and customization available from dedicated resources over a computing infrastructure hosted on-premises.
 	- [Openstack](https://www.openstack.org/) - Repository containing OpenStack repositories
@@ -101,7 +101,7 @@
 - Infrastructure Automation
   > Infrastructure automation makes servers and VM management more flexible, efficient, and scalable by converting management tasks and policy into code.
 	- [AWS CloudFormation](https://aws.amazon.com/cn/cloudformation/)
-	- [HOSH](https://bosh.io) - BOSH is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.
+	- [BOSH](https://bosh.io) - BOSH is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.
 	- [Helm](https://helm.sh/) - Helm is the best way to find, share, and use software built for Kubernetes.
 	- [Infrakit](https://github.com/docker/infrakit) - A toolkit for creating and managing declarative, self-healing infrastructure.
 	- [Juju](https://jujucharms.com/) - Juju is an open source application modelling tool. Deploy, configure, scale and operate your software on public and private clouds.
@@ -150,7 +150,7 @@
   - [Flannel](https://github.com/coreos/flannel/) - flannel is a network fabric for containers, designed for Kubernetes
   - [NSX](https://www.vmware.com/products/nsx.html) - VMware is a software company providing cloud and virtualization services.
   - [Open vSwitch](https://openvswitch.org/) - Open vSwitch is a multilayer software switch licensed under the open source Apache 2 license.
-  - [OpenContrial](http://www.opencontrail.org/) - An open-source network virtualization platform for the cloud.
+  - [OpenContrail](http://www.opencontrail.org/) - An open-source network virtualization platform for the cloud.
   - [Project Calico](https://www.projectcalico.org/) - Cloud native application connectivity and network policy 
   - [Weave Net](https://www.weave.works/oss/net/) - Simple, resilient multi-host Docker networking and more.
   
@@ -190,7 +190,7 @@
   
   Non-CNCF Member Products/Projects
   - [Datera](https://datera.io/) - Datera is an application-driven data infrastructure company.
-  - [Hedving](https://www.hedviginc.com/) - Modern storage for the modern business.
+  - [Hedvig](https://www.hedviginc.com/) - Modern storage for the modern business.
   - [Infinit](https://www.infinit.sh/) - The Elle coroutine-based asynchronous C++ development framework.
   - [LeoFS](https://leo-project.net/leofs/) - The LeoFS Storage System
   - [OpenIO](https://www.openio.io/) - OpenIO Software Defined Storage
@@ -338,7 +338,7 @@
   - [Amazon Kinesis](https://aws.amazon.com/kinesis/) - Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
   - [CloudEvents](https://openevents.io/) - CloudEvents Specification
   - [Google Cloud Dataflow](https://cloud.google.com/dataflow/) - Google is a multinational corporation that is specialized in internet-related services and products.
-  - [Heron](https://twitter.github.io/heron/) - Heron is a realtime, distributed, fault-tolerant stream processing engine from Twitter
+  - [Heron](https://heron.incubator.apache.org/) - Heron is a realtime, distributed, fault-tolerant stream processing engine from Twitter
   
   Non-CNCF Member Products/Projects  
   - [Apache Apex](https://apex.apache.org/) - Mirror of Apache Apex core
