@@ -677,7 +677,33 @@
 
 - [Kubernetes](https://kubernetes.io/) - Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications.
 - [Prometheus](https://prometheus.io/) - From metrics to insight Power your metrics and alerting with a leading open-source monitoring solution.
+- [Envoy](https://www.envoyproxy.io/) - ENVOY IS AN OPEN SOURCE EDGE AND SERVICE PROXY, DESIGNED FOR CLOUD-NATIVE APPLICATIONS.
+- [CoreDNS](https://coredns.io/) - CoreDNS: DNS and Service Discovery.
+- [containerd](https://containerd.io/) - An industry-standard container runtime with an emphasis on simplicity, robustness and portability.
+- [fluentd](https://www.fluentd.org/) - Fluentd is an open source data collector for unified logging layer.
+- [Jaeger](https://www.jaegertracing.io/) - open source, end-to-end distributed tracing.
+- [vitess](https://vitess.io/) - A database clustering system for horizontal scaling of MySQL.
+- [TUF](https://theupdateframework.io/) - A framework for securing software update systems.
 
+## Incubating
+
+- [opentracing](https://opentracing.io/) - Vendor-neutral APIs and instrumentation for distributed tracing.
+- [grpc](https://grpc.io/)
+- [CNI](https://github.com/containernetworking) - Container Network Interface - networking for Linux containers
+- [notary](https://github.com/theupdateframework/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data.
+- [nats](https://nats.io/) - Secure. Simple. Scalable. Open Source.
+- [linkerd](https://linkerd.io/) - Linkerd is an ultralight service mesh for Kubernetes. It gives you observability, reliability, and security without requiring any code changes.
+- [helm](https://helm.sh/) - Helm is the best way to find, share, and use software built for Kubernetes.
+- [rook](https://rook.io/) - Open-Source,Cloud-Native Storage for Kubernetes.
+- [Harbor](https://goharbor.io/) - Our mission is to be the trusted cloud native repository for Kubernetes
+- [etcd](https://etcd.io/) - A distributed, reliable key-value store for the most critical data of a distributed system.
+- [openpolicyagent](https://www.openpolicyagent.org/) - Policy-based control for cloud native environments.
+- [cri-o](https://cri-o.io/) - LIGHTWEIGHT CONTAINER RUNTIME FOR KUBERNETES.
+- [tikv](https://tikv.org/) - TiKV : A distributed transactional key-value database
+- [cloudevents](https://cloudevents.io/) - A specification for describing event data in a common way.
+- [falco](https://falco.org/) - Falco, the open source cloud-native runtime security project, is the defacto Kubernetes threat detection engine. Falco detects unexpected application behavior and alerts on threats at runtime.
+- [argo](https://github.com/argoproj) - Continuous Integration & Deployment
+- [Dragonfly](https://d7y.io/en-us/) - An Open-source P2P-based Image and File Distribution System
 
 ## Contribute
 
