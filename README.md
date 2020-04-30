@@ -56,7 +56,7 @@
 	- [Openstack](https://www.openstack.org/) - Repository containing OpenStack repositories
 	- [Scaleway](https://www.scaleway.com/) - Scaleway is the world's first Cloud Computing IaaS platform
 	- [Foreman](https://www.theforeman.org/) - an application that automates the lifecycle of servers
-	- [Digital Bebar](http://rebar.digital/) - Digital Rebar Provision is a simple but powerful Golang executable that provides a complete API-driven DHCP/PXE/TFTP provisioning system.
+	- [Digital Rebar](http://rebar.digital/) - Digital Rebar Provision is a simple but powerful Golang executable that provides a complete API-driven DHCP/PXE/TFTP provisioning system.
 	- [MAAS](https://maas.io/) - Official MAAS repository mirror. (Do not submit pull requests or bugs here; use Launchpad instead.)
 	- [VMware](VMware) - VMware is a software company providing cloud and virtualization services.
 	
